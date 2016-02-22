@@ -5,3 +5,7 @@ The Open Source Energy Management System (openEMS) is a project with the scope o
 
 ## Architecture of openEMS
 The architecture of openEMS is inspired from work carried out at [openHAB](http://www.openhab.org). It is a pure Java solution and needs a Java Virtual Machine to run on. The OSGi bundles, deployed on an OSGi framework (Equinox), provides a highly modular architecture, which allows adding and removing functionality during runtime without stopping the service.
+
+A map of the main bundles and how they depend on each other (as proposed by the [openHAB project](https://github.com/openhab/openhab/wiki)) is presented here below.
+
+![](https://raw.githubusercontent.com/GhPTech/openEMS/master/eclipsePlatform.png)
