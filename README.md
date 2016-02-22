@@ -8,4 +8,4 @@ The architecture of openEMS is inspired from work carried out at [openHAB](http:
 
 A map of the main bundles and how they depend on each other (as proposed by the [openHAB project](https://github.com/openhab/openhab/wiki)) is presented here below.
 
-![](https://raw.githubusercontent.com/ghpopovici/openEMS/master/Osgi_framework.svg)
+![](https://raw.githubusercontent.com/ghpopovici/openEMS/master/architecture_openEMS.png)
