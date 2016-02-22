@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="370" height="275" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+	<polyline points="3 3 367 3 367 272 3 272 3 1" stroke-width="3" stroke="black" fill="#b5cb85"/>
+	
+	<rect x="3" y="239" width="364" height="33" stroke="black" stroke-width="3" fill="#595959"/>
+	<rect x="3" y="206" width="364" height="33" stroke="black" stroke-width="3" fill="#a6a6a6"/>
+	<rect x="36" y="173" width="331" height="33" stroke="black" stroke-width="3" fill="#d9d9d9"/>
+	
+	<rect x="69" y="140" width="298" height="33" stroke="black" stroke-width="3" fill="#afc2da"/>
+	<rect x="102" y="107" width="265" height="33" stroke="black" stroke-width="3" fill="#afc2da"/>
+	<rect x="135" y="74" width="232" height="33" stroke="black" stroke-width="3" fill="#afc2da"/>
+	<rect x="168" y="41" width="199" height="33" stroke="black" stroke-width="3" fill="#afc2da"/>
+	
+	<rect x="334" y="3" width="33" height="170" stroke="black" stroke-width="3" fill="#afc2da"/>
+	
+	<text x="132" y="264" font-family="arial" font-weight="bold" font-size="25" fill="white">Hardware</text>
+	<text x="83" y="231" font-family="arial" font-weight="bold" font-size="25">Operating System</text>
+	<text x="83" y="198" font-family="arial" font-weight="bold" font-size="25">Java Virtual Machine</text>
+	<text x="154" y="165" font-family="arial" font-weight="bold" font-size="25">Modules</text>
+	<text x="165" y="132" font-family="arial" font-weight="bold" font-size="25">Life cycle</text>
+	<text x="140" y="99" font-family="arial" font-weight="bold" font-size="25">Service registry</text>
+	<text x="203" y="66" font-family="arial" font-weight="bold" font-size="25">Services</text>
+	<text x="45" y="33" font-family="arial" font-weight="bold" font-size="25">Application / Bundles</text>
+	<text x="358" y="133" font-family="arial" font-weight="bold" font-size="25" transform="rotate(-90, 358, 133)">Security</text>
+</svg>
